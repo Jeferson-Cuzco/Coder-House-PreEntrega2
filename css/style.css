@@ -1,0 +1,109 @@
+/* SETEAR VALORES */
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+} 
+
+.inicio{
+   width: 125px;
+}
+
+h1{
+   color: white;
+}
+
+.car1{
+   color: white;
+   font-size:small;
+}
+.carousel-caption{
+   background-color: rgba(128, 128, 128, 0.644);
+   padding: 15px;
+   border-radius: 20px;
+   margin: 0px 0px 40px 0px;
+}
+.navbar{
+   background-color: antiquewhite;
+   padding: 0px 0px 0px 0px;
+}
+.navbar-brand{
+   padding: 0px 0px 0px 0px;
+}
+.nosot{
+   text-align: center;
+   border: 1.5px rgb(218, 180, 56) solid;
+}
+.sis{
+   padding-top: 10px;  
+}
+.dir{
+   padding: 0px 10px 0px 10px;
+   margin: 50px 0px 50px 0px;
+}
+.row{
+   margin-top: 0px;
+}
+.catin h5{
+   margin: 30px 0px 10px 0px;
+   text-align: center;
+}
+.catin a{
+   margin-top: 10px;
+}
+.catin{
+   align-items: center;
+   text-align: center;
+}
+.col{
+   text-align: center;
+}
+.catb{
+   align-items: center;
+   text-align: center;
+   margin: 0px 0px 15px 0px;
+}
+.insta{
+   align-items: center;
+   text-align: center;
+}
+.logf{
+   align-items: center;
+   text-align: center; 
+}
+.ubi{
+   text-align: center;
+}
+@media (min-width: 1200px){
+   .carrusel1{
+      width: 1024px;
+      height: 510px;
+   }
+   .ubi{
+      width:918px ;
+      height: 520px;
+   }
+   
+}
+
+.cbouquet{
+   background-image: url(../image/bouquet.jpg);
+}
+.inos{
+   background-image: url(../image/Trab\ flores.jpg);
+   background-size:cover;
+   background-position:center;
+}
+.imgno{
+   background-image: url(../image/Trabaj1.jpg);
+   background-position: center;
+   background-color: blue;
+}
+.imgc{
+   background-image: url(../image/Trabaj1.jpg);
+   background-position:unset;
+}
+/* .fotcat{
+   padding-top: 100px;
+   margin-top: 100px;
+} */
